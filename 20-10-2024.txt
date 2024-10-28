@@ -1,0 +1,426 @@
+172.16.0.222 : ThaBitha  18012009
+172.16.0.45 : MBAK AMBARR Aqua2024
+172.16.0.211 : mahmudah siti2104
+172.16.0.142 : Rumahku UD3rFzKaYQKb9pKm+vHcdg==
+172.16.0.239 : albert 12345678
+172.16.0.45 : MBAK AMBARR Aqua2024
+172.16.0.211 : mahmudah siti2104
+172.16.0.142 : Rumahku TWYZrvpl5xDGA1ibHPxK5w==
+172.16.0.239 : albert 12345678
+172.16.0.30 : Arumsari LABUBU24
+172.16.0.88 : ^ Dominic ^ Labalaba
+172.16.0.245 : SMTOWN happykiyowo
+172.16.0.224 : ANDIK WIFI pegasus05
+172.16.0.173 : SANITA WiFi pintudoa
+172.16.0.80 : Nizzam s4jo8UXCFcO3beqg9DvReg==
+172.16.0.186 : rafizpaldaplang yonaaman
+172.16.0.249 : fizza 12345678
+172.16.0.51 : Gurami&Lele Alhamdulillah
+172.16.0.222 : ThaBitha  18012009
+172.16.0.62 : Agung 12345678
+172.16.0.241 : Yuda 10061974
+172.16.0.73 : ela 12345678
+172.16.0.12 : FITRI 13151719
+172.16.0.243 : Mujiismail Arbima321
+172.16.0.64 : HOMEARIL 12345678
+172.16.0.195 : Marvinevi 66664444
+172.16.0.185 : Tidak internet diponegoro
+172.16.0.252 : Kaum rebahan DqjCRq6jNIh09vSN7TYFXw==
+172.16.0.170 : MBAH_GUN MBAHGUN05
+172.16.0.25 : KADAR 12345678
+172.16.0.105 : YUSNIA WIFI udmKyOF0syTteJ8pB4alMA==
+172.16.0.178 : RUMAH ROSY RICHA 1sampai8
+172.16.0.175 : MARKAS1 kenmirza1
+172.16.0.100 : Ilyas-Trans kopihitam
+172.16.0.97 : YUWIARA allah yarabbb
+172.16.0.181 : CMCC-b47H 12345678
+172.16.0.209 : MOZZA kanwesngertidewe
+172.16.0.93 : Rumah Ken anak baik
+172.16.0.149 : OMAH ETAN nuhaputri
+172.16.0.240 : Warung kopi kolili exw+10YRAUdEWEakxk0tTA==
+172.16.0.42 : Melinda WiFi  hrEulSPqz9+f1ewpLE+3Ig==
+172.16.0.22 : NATA NUGROHO  AYAMGEPREK
+172.16.0.176 : Fialuqy 11223344
+172.16.0.84 : Royan.h 94899110
+172.16.0.81 : Argentina SUWf49RY2FWWUjofW/8iIQ==
+172.16.0.67 : Hendra 11111111
+172.16.0.68 : Lindhu MP Ora diganti
+172.16.0.33 : SALSA 54545454
+172.16.0.98 : Alecia Azkadina Andreani. Sikatgigi
+172.16.0.116 : Wifi Guys dnrabazz
+172.16.0.250 : Yasmin Jakarta48
+172.16.0.220 : SEKARTAJI KAMILAHSALSA
+172.16.0.226 : NAURA merdekaa
+172.16.0.43 : RATU maduraja
+172.16.0.143 : Lubito sangpemburu
+172.16.0.202 : AISAH ayamgoreng
+172.16.0.103 : Tenda 12345678
+172.16.0.145 : ikramchick's Kukuhpratama
+172.16.0.18 : WULAN WIFI sembarang
+172.16.0.177 : richoaferus kayyisazida
+172.16.0.29 : devi TitW+acALzpzPeMtngwDrw==
+172.16.0.201 : Rafa_ezi DXNm0ZXeKiN1dm/e/A3ENA==
+172.16.0.46 : RajaKaos ID langsungmasuk
+172.16.0.133 : Yusinta doabersama
+172.16.0.246 : Salepok 11223344
+172.16.0.120 : Azurtane Administrasi68
+172.16.0.107 : Bu Indah 12345678
+172.16.0.108 : failed
+172.16.0.108 : failed
+172.16.0.45 : MBAK AMBARR Aqua2024
+172.16.0.211 : mahmudah siti2104
+172.16.0.142 : Rumahku kTwJAIq26X2+GG7ojJZ40Q==
+172.16.0.239 : albert 12345678
+172.16.0.108 : failed
+172.16.0.30 : Arumsari LABUBU24
+172.16.0.88 : ^ Dominic ^ Labalaba
+172.16.0.245 : SMTOWN happykiyowo
+172.16.0.224 : ANDIK WIFI pegasus05
+172.16.0.173 : SANITA WiFi pintudoa
+172.16.0.80 : Nizzam boDc9k3sa+HcNMMkcInSyw==
+172.16.0.186 : rafizpaldaplang yonaaman
+172.16.0.78 : failed
+172.16.0.249 : fizza 12345678
+172.16.0.51 : Gurami&Lele Alhamdulillah
+172.16.0.222 : ThaBitha  18012009
+172.16.0.62 : Agung 12345678
+172.16.0.241 : Yuda 10061974
+172.16.0.73 : ela 12345678
+172.16.0.212 : failed
+172.16.0.12 : FITRI 13151719
+172.16.0.243 : Mujiismail Arbima321
+172.16.0.64 : HOMEARIL 12345678
+172.16.0.195 : Marvinevi 66664444
+172.16.0.185 : Tidak internet diponegoro
+172.16.0.41 : failed
+172.16.0.252 : Kaum rebahan rlID3GV8y54l4wPmqMykrQ==
+172.16.0.170 : MBAH_GUN MBAHGUN05
+172.16.0.25 : KADAR 12345678
+172.16.0.215 : failed
+172.16.0.48 : failed
+172.16.0.105 : YUSNIA WIFI UUEgjCfrBOXLKEbS6pX1qA==
+172.16.0.168 : failed
+172.16.0.178 : RUMAH ROSY RICHA 1sampai8
+172.16.0.175 : MARKAS1 kenmirza1
+172.16.0.100 : Ilyas-Trans kopihitam
+172.16.0.97 : YUWIARA allah yarabbb
+172.16.0.124 : failed
+172.16.0.181 : CMCC-b47H 12345678
+172.16.0.190 : failed
+172.16.0.209 : MOZZA kanwesngertidewe
+172.16.0.93 : Rumah Ken anak baik
+172.16.0.149 : OMAH ETAN nuhaputri
+172.16.0.240 : Warung kopi kolili uE9vdDSLL9IWK6aRI2rSOw==
+172.16.0.42 : Melinda WiFi  QVEfIA4pilFA4kvuzFC1/w==
+172.16.0.35 : failed
+172.16.0.22 : NATA NUGROHO  AYAMGEPREK
+172.16.0.176 : Fialuqy 11223344
+172.16.0.72 : failed
+172.16.0.84 : Royan.h 94899110
+172.16.0.81 : Argentina NCEHMvqovYDarHeBKIYYow==
+172.16.0.67 : Hendra 11111111
+172.16.0.68 : Lindhu MP Ora diganti
+172.16.0.33 : SALSA 54545454
+172.16.0.98 : Alecia Azkadina Andreani. Sikatgigi
+172.16.0.192 : failed
+172.16.0.155 : failed
+172.16.0.116 : Wifi Guys dnrabazz
+172.16.0.250 : Yasmin Jakarta48
+172.16.0.254 : failed
+172.16.0.220 : SEKARTAJI KAMILAHSALSA
+172.16.0.226 : NAURA merdekaa
+172.16.0.43 : RATU maduraja
+172.16.0.143 : Lubito sangpemburu
+172.16.0.202 : AISAH ayamgoreng
+172.16.0.103 : Tenda 12345678
+172.16.0.145 : ikramchick's Kukuhpratama
+172.16.0.18 : WULAN WIFI sembarang
+172.16.0.177 : richoaferus kayyisazida
+172.16.0.29 : devi 9fhotuHo3og/tY6mZhqfiA==
+172.16.0.201 : Rafa_ezi foEEK1JWatkED01oMRIB6g==
+172.16.0.46 : RajaKaos ID langsungmasuk
+172.16.0.133 : Yusinta doabersama
+172.16.0.246 : Salepok 11223344
+172.16.0.120 : Azurtane Administrasi68
+172.16.0.107 : Bu Indah 12345678
+172.16.0.233 : qolbistudio qolbi4444
+172.16.0.23 : PAK KODERI 12345678
+172.16.0.134 : Cenna 12345678
+172.16.0.91 : CMCC-Nbdq 12345678
+172.16.0.141 : AIRA WIFI janganlag
+172.16.0.144 : FIKA RAHAYU 12345678
+172.16.0.158 : zonk W3X6G0vw3o999zPYDYMRaw==
+172.16.0.238 : marsuqi rSKmZw/5KNHXyTessNYZRw==
+172.16.0.99 : ozil suycYlGFRZHjdafBcYIRPQ==
+172.16.0.21 : CMCC-gUN4 12345678
+172.16.0.37 : Intan es buah 12345678
+172.16.0.218 : MASDIT 8k7IxlcEACj4vYSq1zlHog==
+172.16.0.253 : Angkringan  12345678
+172.16.0.200 : failed
+172.16.0.104 : ST12 Suprihatin
+172.16.0.118 : Silvia ademsari
+172.16.0.39 : Rhenzi Sh091922
+
+172.16.0.210 : CMCC-z4AT SATRUDUA
+172.16.0.234 : failed
+172.16.0.66 : Devita WIFI 73anchZrEx9lwcGxmt62Xw==
+172.16.0.150 : failed
+172.16.0.232 : failed
+172.16.0.95 : PAK YIT faridahmad
+172.16.0.52 : Fahri27 15151515
+172.16.0.20 : failed
+172.16.0.198 : YOVA WIFI kopihitam
+172.16.0.15 : Embun embunceria
+172.16.0.14 : Rellya kyjmn8h58VPKUOwFy0V69w==
+172.16.0.123 : Amirudin peternaksapi
+172.16.0.87 : AKBAR RIZKY WIFI -  -.sd..wruierhikngf
+172.16.0.137 : HERU WIFI doabersama
+172.16.0.132 : ROSARI Collection semogaberkah
+172.16.0.223 : failed
+172.16.0.94 : failed
+172.16.0.247 : AQILA indonesia
+172.16.0.251 : apalah  0sampai10
+172.16.0.193 : Woles oradiganti
+172.16.0.230 : CMCC-4pUH 12345678
+172.16.0.169 : failed
+172.16.0.179 : Putri minang Alderald
+172.16.0.119 : Rumah pojok Elsaputri
+172.16.0.89 : Qeynara bayarsewu
+172.16.0.83 : Kabul mebel cLRqwijFXD8wjRdC6fkX+w==
+172.16.0.161 : Sunaryo WIFI  pb9ltqVPTD5lbWHFne2dEA==
+172.16.0.109 : CMCC-phCe 12345678
+172.16.0.183 : Wifi rumah kamu nanya
+172.16.0.188 : Rafat jr alhamdulillah
+172.16.0.10 : Roby farm Salonkudewe
+172.16.0.112 : Wifi non subsidi pemerintah akugakruhkatasandine
+172.16.0.227 : 18302847 Renaldy26
+172.16.0.235 : Tidak ada WIFI oktavia1
+172.16.0.115 : failed
+172.16.0.126 : failed
+172.16.0.75 : ZAKY WIFI aira1234
+172.16.0.159 : Aura Rikabeni2405
+172.16.0.90 : failed
+172.16.0.180 : failed
+172.16.0.184 : failed
+172.16.0.236 : failed
+172.16.0.65 : Army Jaya namaeayah
+172.16.0.174 : GUNAWANN 12345678
+172.16.0.106 : failed
+172.16.0.17 : Home WiFi  abyanhaikal
+172.16.0.125 : CMCC-UaaG Chintya01
+172.16.0.135 : MAHARANI maharani12
+172.16.0.24 : PAIJAH WIFI kucingwell
+172.16.0.54 : Garegekulonmah Piston70
+172.16.0.153 : ANIF WIFI anif141414
+172.16.0.111 : PAK YUDI 1sampai8
+172.16.0.152 : Sabrina-Ap9d bumibulat
+172.16.0.34 : failed
+172.16.0.101 : Tiwik Rodokangel
+172.16.0.128 : Zaki motor m1kh4yl4
+172.16.0.32 : failed
+172.16.0.197 : Kamunyariapa terbatas
+172.16.0.187 : Izam 9fIq4sgh1eJsGYmJkALo8Q==
+172.16.0.131 : ZAHRA WIFI ioGBHz46vcEjoOQqiaOcAg==
+172.16.0.92 : Bang Jay takokpakku
+172.16.0.237 : Anak Lanang Tangkletbapake
+172.16.0.163 : Rio 2pK5IRUSXbjtYvELa4ZLzg==
+172.16.0.122 : Heru RESTU123
+172.16.0.196 : AMANDA A.D DIBAWAHMEJA
+172.16.0.242 : Alif WIFI lancarjaya
+172.16.0.114 : failed
+172.16.0.191 : ERISKA WIFI bersamakitabisa
+172.16.0.27 : Yuk pasang wafi shanfurin
+172.16.0.207 : WIFI anugerah
+172.16.0.86 : failed
+172.16.0.117 : Kolamiwak23 sandisalah
+172.16.0.63 : Zayn Malik paracetamol2
+172.16.0.127 : NORTON 12345678
+172.16.0.77 : TUKANG CUKUR 23456789
+172.16.0.96 : failed
+172.16.0.167 : Kembang setaman segokuning
+172.16.0.139 : BU RENI nadine123
+172.16.0.217 : failed
+172.16.0.59 : Riski tahupetis
+172.16.0.57 : HRK VARIASI haraka12
+172.16.0.110 : OKYYYY terserah
+172.16.0.70 : KembarGrup Melviano
+172.16.0.31 : Mahfud 12345678
+172.16.1.223 : Mbak eny fahmiwildan
+172.16.1.137 : Rumah 17061999
+172.16.1.33 : Azam novita123
+172.16.1.213 : ROOFTOP 11223344
+172.16.1.29 : Home WiFi  11541415
+172.16.1.109 : ZAYDAN 12345678
+172.16.1.253 : Jeje Pethshop agustusan
+172.16.1.175 : Omah mbako gakngerti
+172.16.1.53 : BU TINA 987654321
+172.16.1.11 : YULIA KOSMETIK bakulkembang
+172.16.1.144 : GIOFANI nvGVHypVU1LYZ4KbfMBtqw==
+172.16.1.221 : failed
+172.16.1.165 : SINAR BUAH doabersama
+172.16.1.236 : Megan pratama Duajuli2018
+172.16.1.114 : failed
+172.16.1.66 : Tukuo cok Msy3kGjDj6Pt45mxM5U0pA==
+172.16.1.14 : failed
+172.16.1.226 : Pak No Jam pakhno85
+172.16.1.163 : FBS.ID 12345678
+172.16.1.171 : failed
+172.16.1.173 : CMCC-bYNR 12345678
+172.16.1.5 : CMCC-cgfH 12345678
+172.16.1.135 : MUSHOLA 87654321
+172.16.1.248 : AJI AE punden9898
+172.16.1.84 : Sundari 10101010
+172.16.1.227 : ceples raihann0
+172.16.1.110 : Rumah Keenan seikeenan
+172.16.1.172 : Ara 22222222
+172.16.1.100 : Amir doabersama
+172.16.1.203 : Reza Bolodewe123
+172.16.1.30 : Jelmel 23182002
+172.16.1.170 : Bojonegoro gurendra
+172.16.1.102 : DhevaRangga Prapti201103
+172.16.1.169 : Unicorn Bakulkembang00
+172.16.1.57 : Raffa Rangga tanjunganom
+172.16.1.64 : PRILI WIFI teratai22
+172.16.1.96 : SYAHRIAN 12345678
+172.16.1.232 : Jeslinaviza 10101010
+172.16.1.112 : failed
+172.16.1.69 : Rany oktoberantakan
+172.16.1.222 : Bu tulus oktavia123
+172.16.1.61 : CCM ikanasin
+172.16.1.35 : Mustofa poles  Poles1234
+172.16.1.70 : failed
+172.16.1.153 : Home WiFi  kasasteril
+172.16.1.25 : Furqon rahma1987
+172.16.1.4 : Zeniwarung kucinghitam
+172.16.1.162 : Warung buyanti sakitgigi
+172.16.1.125 : Neta @chendol
+172.16.1.101 : failed
+172.16.1.234 : Comel kudubayar
+172.16.1.62 : SALON NINGRUM TIGER5115
+172.16.1.115 : failed
+172.16.1.155 : Alfaatir  12dayyyy
+172.16.1.94 : MARGONO MARGONOKEYLA
+172.16.1.228 : DEFANOARFAZIOXABIRU MieJebew
+172.16.1.39 : Cipret telu sukasuka
+172.16.1.113 : failed
+172.16.1.105 : Ridhajihan 7+isshEIPgkFqIAXi5P2gw==
+172.16.1.104 : Syauqi Paswordnya
+172.16.1.81 : Aima aima7777
+172.16.1.140 : DINAS PERIKANAN 7t/Ht/Aa79k/58VeADrmRg==
+172.16.1.210 : YOLANDA 26011988
+172.16.1.161 : Rumah jhon Rumahjhon
+172.16.1.166 : Atha toni 12341234
+172.16.1.67 : BARBER.KILL seninlibur
+172.16.1.225 : Ririnhome wiranata1501
+172.16.1.192 : Oke 824763589
+172.16.1.80 : Dar.com home nangissek
+172.16.1.40 : azkiawifi azkia0808
+172.16.1.52 : Bu nunik Satepadang
+172.16.1.191 : Oke 12345678
+172.16.1.41 : PAKYAS azhar123
+172.16.1.209 : Nova novi nasipecel
+172.16.1.91 : Ibrahim upinipin
+172.16.1.42 : SELLY WIFI 11111112
+172.16.1.43 : failed
+172.16.1.139 : RUMAH BU LAM hanagimbul2023
+172.16.1.143 : DENAR SABRINA12
+172.16.1.246 : Bidan ATIK jogomerto
+172.16.1.204 : Fuad 12341234
+172.16.1.154 : Arkana nuraz 03092023
+172.16.1.121 : Buk SRI 12345678
+172.16.1.76 : USER22 fajar1922
+172.16.1.31 : Daffa caca 07051994
+172.16.1.44 : SYIFAJAURA WiFi  24241234
+172.16.1.29 1: failed
+172.16.1.250 : NAJWAA LO+sPzavhmQTN8xOzZ4oNg==
+172.16.1.86 : failed
+172.16.1.78 : failed
+172.16.1.103 : failed
+172.16.1.134 : Homestay 5 18109518
+172.16.1.99 : Bunglon Terate22
+172.16.1.54 : Wina arjuna252
+172.16.1.189 : gelora indonesia bismillah
+172.16.1.158 : Aina 1sampai8
+172.16.1.118 : failed
+172.16.1.90 : Dapa Putri345
+172.16.1.218 : CMCC-uq4C 12345678
+172.16.1.233 : Entok 33445522
+172.16.1.243 : UWAIS abc11111
+172.16.1.7 : Albio Hisyam Q albio123
+172.16.1.68 : Home wifi 12345678
+172.16.1.176 : Nadya_Wifi Clarissa20
+172.16.1.49 : Bilqis rizqi1234
+172.16.1.74 : failed
+172.16.1.148 : Queena sembarang123
+172.16.1.168 : CMCC-FkgN 12345678
+172.16.1.202 : Luthfi_Dhita rasyafayza
+172.16.1.65 : pandawa cell 12345678
+172.16.1.195 : DAVERO wseXcABddrl9J9Hru1QwPQ==
+172.16.1.190 : Lele_Kris 113333555555
+172.16.1.178 : Mbh E sandibaru
+172.16.1.16 : WARUNG KOPI MAKTINAH ngopidisek
+172.16.1.133 : ZASKIA AZALEA123
+172.16.1.47 : Heri Susanto 04110612
+172.16.1.51 : failed
+172.16.1.48 : Maybee godongtelo
+172.16.1.241 : Wifi Pentol12
+172.16.1.249 : SEBLAK  CUSTOM telulorosiji
+172.16.1.211 : KITUL KITUL321
+172.16.1.174 : Seblakmeler ibnuardana
+172.16.1.120 : GRIZELLE dzakira18
+172.16.1.87 : Adiana W.O. daviearsa04
+172.16.1.59 : Paijo 1sampai8
+172.16.1.123 : SDN1 jogomerto1
+172.16.1.159 : Mandala Pro Mandala Audio
+172.16.1.231 : Senorita bayarsek
+172.16.1.127 : Dabria Home bahagiaselalu
+172.16.1.122 : Asrama ramadhanppma1445
+172.16.1.124 : failed
+172.16.1.160 : Bisma 1234567890
+172.16.1.36 : kafanada HV44R/XXxN2zBIOdBeXItA==
+172.16.1.10 : 3BERSAUDARA 7KjeL4ZbsI3+/yiHBHuYoQ==
+172.16.1.106 : failed
+172.16.1.32 : ALFA 12345678
+172.16.1.220 : BRIO mandirifc
+172.16.1.20 : Mikayla melatiwangi09
+172.16.1.138 : YUFI gedanggoreng
+172.16.1.237 : Kedai mama zayn Zayn1605
+172.16.1.75 : ARTO MORO Xx8YHN+s84rsB+mtpSPCyQ==
+172.16.1.136 : Mandutt wifie 01234567
+172.16.1.247 : Bismillah AWALBULAN
+172.16.1.239 : WAANI JAYA SPEED belipulsadong
+172.16.1.194 : ZAFRAN WIFI jCZwdH5HDKILQ+ScCBxv+w==
+172.16.1.6 : Ahe-Tanjunganom 87654321
+172.16.1.128 : nikeardila 23447046
+172.16.1.167 : Rifqihanif 05161025
+172.16.1.3 : LEYANIN IvNdKGTyw9ER5egEMZ3Qq2WyfGH0JQImGbiNuCB26sU=
+172.16.1.19 : ALFA RAZKA f6bbAHegnq7rMjSycsoOkA==
+172.16.1.46 : Seamless FXxOEUvbdYaIvvn/cYC/qQ==
+172.16.1.79 : Dua putra Beli es teh dulu
+172.16.1.9 : ANIRR GEB2B9GMd8OApbXGCgW6xA==
+172.16.1.37 : failed
+172.16.1.2 : failed
+172.16.1.207 : Rikom WiFi  doabersama
+172.16.1.71 : Bu Nining nesg3fZPEHGeD/w9771t8A==
+172.16.1.196 : Wifi tidak terhubung mellaty01
+172.16.1.116 : failed
+172.16.1.27 : WIFIKU Mboh raroh
+172.16.1.111 : BAKAYAROU WIFI doabersama
+172.16.1.212 : Najwaazkia  Azkia765
+172.16.1.206 : yogga_in 12345678
+172.16.1.147 : CMCC-5YAk sleborpres
+172.16.1.214 : Dava dwi Kopisusu
+172.16.1.97 : failed
+172.16.1.150 : Wi-Fight 122345678
+172.16.1.119 : Rafa yatiran123
+172.16.1.17 : Iyyaaa Kucingmanak
+172.16.1.55 : Wanda07 Wanda280500
+172.16.1.18 : PANIDI WIFI Arsya123
+172.16.1.230 : paniaa paniaaaaaaaaawwww
+172.16.1.235 : Mr.chank indonesia
+172.16.1.245 : teh jumbo aUCHVb7ExoETdDPB4Wyb7w==
+172.16.1.28 : IRUL WIFI kakak1234
+172.16.1.130 : Adira Wayahe ganti
+172.16.1.205 : Wahyuu Estehanget
+172.16.1.132 : omahoren13 omahoren13
+172.16.1.26 : Tenda rotikukus
